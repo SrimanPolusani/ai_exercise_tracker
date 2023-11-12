@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "workoutai-366918",
+  "private_key_id": "7c821ac88de29a0f4ffeba0008eb26b23f5b0e02",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClLPtD4L4VHYQN\n0fK6aiO6ao2SGcl/I933SZupUfz3oV22vxNzjP8GcfzWNfEF3RBb4hv9t/512XvY\nzZ76ut6/CeYgrmlHcZpKiph3aP448NWMwYaU+4/JE9T6r0m4gXt/IHUhViV2yrwQ\npAT0Gb2IJStpnK7ExgVKidisO8O3BzZWBDahSJ7vmec/nP6DEqgauGwxrRGnp6uE\n8UqXsE4c7YnAdObAl1FQlPPDC/BSntrv2GbafWp48oWqkbvUSN5obNhz8OGgWjw3\nZeSM4xZ5SIah2nUaTftaBcZoLkxc2G+VShYR/nvfrtqWtpzm8+UsXsa2DB/PFAcs\ncxsAIa5DAgMBAAECggEAOlB+pxC12xuQDxcDtHebhIlw0Ndk0Yu2pkLo/2bQQhbI\n0Kd19RIeyUY+BtyFatYIm//gdPtcDXxKYpj5mziVQmn6wqgAyDXdzJpQyLubITw5\nkJeUbY3AzjM/un9fLhIcqR2q7KmO0Xky20ck7o8V4HaK9J7Z/uOQY6f2BJyW9Ms3\n4u3XnPkquPlw3a9ZrdC9er8c7YZl3JbGUkTtMXvg4oHN0/tbwty130Zf6sJK2drG\nzT7EQcVn9VD/3o9BLwdcVtIl1K7FSZBVXvxFCqhwnd46RQmV0eh/RHyjNrypVmDT\nrricRrMrXoCo2+0QJFJMhApBqV7OpVEMn+n4VWzn9QKBgQDe4pTs97Rf9K2DPJFn\nMxZ72IVHjl//OVWC7JRz9SwvikyHuu2v+z6dxA8OlCPVIaHxrCTpj/6JmKJgRWnt\nOtTN5z6l96wugJFUSAJOCmBw/fRG/rPiYfNAcs5pTPPelr97n08Yh27O0V8jXJ6x\nK3OewlpTu/IZpC7NZvXjYsjC9QKBgQC9t22C7ueiqY4H2FAGc47BPrPTDF0r+oEE\nTzEXM5RGVWQ7y9CVh08wYzCMeUuLmO4T6VlxUxXSCVtE59Qz2066v7MJ9t7hg1Wb\nEtC4YkkqFXep8hLobgKLttPgfZuVYMTWBqEClUh7aJWpALnYkJgrkYONr0vc7fko\nnHNcm/eZVwKBgHgj7l6lTqcCfpzlAwN7uDzdg0oE5p3uS7ecypCOsViW1ZW8Hu7j\nIOdtjSgwlfgGfwKD5gm3wl5s1enKwMRNF/Q9F7nifP878hpaDlP+p+mAGjJCjLgU\nUEiHGdgM0M9EtsZuIvZ32jTFCuFGxYt+fn4vCP1lq6RCqa+yNgxxbQIZAoGBALro\nl0zTAITiVVrnQ1hHyxIaK2I3ISgt4aQUPUIlf+SXRmwfDf3zVBJQ9si+y63Z2lzl\nnkgm2i2XKENHv2njm7ojGUos3UMCeHmSXO37bye2BLH7G6PAlmN9mVrnhTvzHZna\n6BA6cTGcRS4+19pEApeSAjC5zpz4G2xmTsWjp5l7AoGBAJ41AmuGccTABLPr6mvp\nl2nkNpttPSA5XRZiua4bEljpeNxQq/M8/e0F9vMZdJMSSyu0u4O24rsMhVyHKGCg\nz+tfqCXL3r2ypSgfNJVr7fGKAe0jdV4RstVYsaSJtAATeN+MIiXfv/CNCnau6zbG\naX4HIFY0Ag+HLTDa5WFmbcEG\n-----END PRIVATE KEY-----\n",
+  "client_email": "sriman-workout-ai@workoutai-366918.iam.gserviceaccount.com",
+  "client_id": "114014758388362638981",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sriman-workout-ai%40workoutai-366918.iam.gserviceaccount.com"
+}
